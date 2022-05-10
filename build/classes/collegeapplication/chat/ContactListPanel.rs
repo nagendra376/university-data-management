@@ -1,0 +1,2 @@
+collegeapplication.chat.ContactInfo
+collegeapplication.chat.ContactListPanel

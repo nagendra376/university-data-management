@@ -1,0 +1,2 @@
+collegeapplication.chat.NewMessage
+collegeapplication.chat.ChatData
